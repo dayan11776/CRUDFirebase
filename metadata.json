@@ -1,0 +1,6 @@
+{
+  "name": "Contact Directory & Data Manager",
+  "description": "Interactive contact directory data table featuring search, gender filtering, column sorting, 10-row pagination, and full data management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
